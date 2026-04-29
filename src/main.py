@@ -1,4 +1,3 @@
-from constants import FOLLOWING_FILE, FOLLOWERS_FILE
 from utils import load_following_json, load_followers_json, not_following_back
 from user import User
 

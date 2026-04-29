@@ -31,11 +31,17 @@ uv run .\src\main.py
 
 ## How to get your data
 
+The project includes an example `following.json` and `followers_1.json` for demonstration purposes. To analyze your own account, follow these steps to export your data from Instagram:
+
 ==> TODO...
+
+> [!IMPORTANT]  
+> You must extract the downloaded directory and place the `.json` files directly into the `data/` folder so the tool can find them!
 
 ## Features
 
-==> TODO...
+- List people who don't follow you back
+- ...
 
 ## Future improvements
 
